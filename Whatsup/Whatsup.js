@@ -17,15 +17,13 @@ const Whatsup = () => {
 
               <MessengerCustomerChat
                     pageId="100588302620535"
-                    appId="718163472674662"
-    
- 
- 
- />
+                    appId="718163472674662" 
+             />
 
 
- <h1> Ehsan marketing : infoworldehsan@gmail.com
-     password : em-123123789</h1>
+    <h1> Ehsan marketing : infoworldehsan@gmail.com
+     password : em-123123789
+    </h1>
  
         
             
