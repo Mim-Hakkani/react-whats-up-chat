@@ -44,3 +44,11 @@ a {
 ._2iWL7 {
     left: 30px!important;
 }
+
+
+/* messenger class styles  */
+
+.messenger-chat-bubble{
+  border:2px solid #4cc9e5!important;
+  color: red;
+}
